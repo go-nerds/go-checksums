@@ -1,6 +1,6 @@
 # go-checksums
 
-It's a small utlity used for getting checksum for any file!
+It's a small utility used for getting a checksum for any file.
 
 ## Usage
 
